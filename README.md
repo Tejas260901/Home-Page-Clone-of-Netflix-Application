@@ -33,10 +33,6 @@
 <br />
 
 <div align="center">
-  <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
-  <p align="center">Home Page</p>
-  <img src="./public/assets/mini-portal.png" alt="Logo" width="100%" height="100%">
-  <p align="center">Mini Portal</p>
   <img src="./public/assets/detail-modal.png" alt="Logo" width="100%" height="100%">
   <p align="center">Watch Page with customer contol bar</p>
 </div>
